@@ -5,9 +5,11 @@ using namespace std;
 /*
  * This is a simple Hello World program in C++.
  */
+
+
 int main() {
 
-    cout << endl << "my name is Rayan" << endl << endl;
+    cout << endl << "Hello World!" << endl << endl;
 
     return 0;
 }
